@@ -46,18 +46,3 @@ GlucoVision leverages a novel **opto-electrical approach**:
 - AI-based health pattern predictions and personalized health insights.
 
 ---
-
-## 🤝 Contributions
-
-We welcome collaborators, contributors, and researchers passionate about non-invasive diagnostics, wearable tech, and digital healthcare. Let's reshape diabetes care—together.
-
----
-
-## 📃 License
-
-This project is currently under research and development. Licensing information will be provided upon release.
-
----
-
-> 🧬 *GlucoVision aims to be the bridge between comfort and clinical-grade diabetes care.*
-
