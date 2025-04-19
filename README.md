@@ -44,5 +44,3 @@ GlucoVision leverages a novel **opto-electrical approach**:
 - Integration with mobile apps for real-time glucose tracking and alerts.
 - Expansion into wearables like smart contact lenses.
 - AI-based health pattern predictions and personalized health insights.
-
----
